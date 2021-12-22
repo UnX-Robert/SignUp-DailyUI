@@ -33,3 +33,10 @@ hr {
   background-color: #6998AB;
   color: #1A374D;
 }
+
+@media (max-width: 991px) {
+  .sign-up-card {
+    margin: 10% auto;
+    padding: 50px;
+  }
+}
